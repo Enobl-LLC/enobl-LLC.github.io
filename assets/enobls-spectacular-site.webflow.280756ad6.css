@@ -233,6 +233,7 @@ figcaption {
 
 .link:hover {
   background-image: none;
+  text-decoration: none!important;
 }
 
 .link.w--current {
