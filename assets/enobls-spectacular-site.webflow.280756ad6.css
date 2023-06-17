@@ -12,25 +12,25 @@
 /* Lazy styles*/
 /* unvisited link */
 a:link {
-  color: #777777 !important;
+  color: #b8b8b8 !important;
   text-decoration: none!important;
 }
 
 /* visited link */
 a:visited {
-  color: #777777 !important;
+  color: #b8b8b8 !important;
   text-decoration: none!important;
 }
 
 /* mouse over link */
 a:hover {
-  color:#ffffff !important;
+  color:blue !important;
   text-decoration: none!important;
 }
 
 /* selected link */
 a:active {
-  color:#777777 !important;
+  color:#b8b8b8 !important;
   text-decoration: none!important;
 }
 
