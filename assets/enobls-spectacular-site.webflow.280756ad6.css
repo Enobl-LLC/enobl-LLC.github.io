@@ -307,8 +307,8 @@ figcaption {
   margin-bottom: 0px;
   font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
   color: #2B3950!important;
-  font-size: 11vh;
-  line-height: 14vh;
+  font-size: 10vh;
+  line-height: 13vh;
   font-weight: 400;
 }
 
@@ -319,7 +319,7 @@ figcaption {
 
 .main-h1.bold.home {
   margin-top: 0px;
-  line-height: 14vh;
+  line-height: 10vh;
   font-weight: 700;
   color:#2B3950!important;
 }
@@ -327,8 +327,8 @@ figcaption {
 .main-h1.home {
   font-family: Inter, sans-serif;
   color:#2B3950!important;
-  font-size: 12vh;
-  line-height: 14vh;
+  font-size: 10vh;
+  line-height: 10vh;
   font-weight: 700;
 }
 
@@ -1496,8 +1496,8 @@ figcaption {
   }
 
   .main-h1.bold.home {
-    font-size: 6em;
-    line-height: 16vh;
+    font-size: 5em;
+    line-height: 12vh;
     font-weight: 700;
     color:#2B3950;
   }
@@ -1613,8 +1613,8 @@ figcaption {
   }
 
   .main-h1.bold.home {
-    font-size: 4em;
-    line-height: 12vh;
+    font-size: 3em;
+    line-height: 8vh;
     font-weight: 700;
     color:#2B3950;
   }
@@ -1753,7 +1753,7 @@ figcaption {
   }
 
   .main-h1.bold {
-    font-size: 60px;
+    font-size: 30px;
     line-height: 50px;
   }
 
